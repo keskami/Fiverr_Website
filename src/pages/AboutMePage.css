@@ -1,16 +1,28 @@
 /* AboutMePage.css */
 
+body {
+  margin: 0;
+  background-color: #add8e6; /* Light Blue */
+  font-family: 'Arial', sans-serif; /* Adjust as needed */
+}
+
 .about-container {
-    text-align: center;
-  }
-  
-  h2 {
-    color: #333;
-  }
-  
-  p {
-    line-height: 1.6;
-    margin-top: 10px;
-  }
-  
-  
+  text-align: center;
+  padding: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.p {
+  font-size: 16px;
+  margin: 20px auto 0 auto;
+  width: 60%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  background-color: white;
+  padding: 30px;
+  border-radius: 15px;
+}

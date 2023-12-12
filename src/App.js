@@ -11,15 +11,15 @@ function App() {
       <div className="app-container">
         <nav>
           <NavLink to="/" exact activeClassName="active-tab">
-            Home
+            Home  
           </NavLink>
           <NavLink to="/about" activeClassName="active-tab">
             About Me
           </NavLink>
         </nav>
         <Routes>
-          <Route path="/about" component={AboutMePage} />
-          <Route path="/" component={HomePage} />
+          <Route path="/about" element={<AboutMePage />} />
+          <Route path="/" element={<HomePage />} />
         </Routes>
       </div>
     </Router>
