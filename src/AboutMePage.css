@@ -1,0 +1,16 @@
+/* AboutMePage.css */
+
+.about-container {
+    text-align: center;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    line-height: 1.6;
+    margin-top: 10px;
+  }
+  
+  
