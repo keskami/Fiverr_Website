@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, NavLink, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Route, NavLink, Routes } from 'react-router-dom';
 import './App.css'; // Create App.css for styling
 
 import HomePage from './pages/HomePage';
@@ -17,10 +17,10 @@ function App() {
             About Me
           </NavLink>
         </nav>
-        <Switch>
+        <Routes>
           <Route path="/about" component={AboutMePage} />
           <Route path="/" component={HomePage} />
-        </Switch>
+        </Routes>
       </div>
     </Router>
   );
