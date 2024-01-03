@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fiverr_Website/static/css/main.5c827de8.css",
+    "main.js": "/Fiverr_Website/static/js/main.af52f1e7.js",
+    "static/js/787.87bfb861.chunk.js": "/Fiverr_Website/static/js/787.87bfb861.chunk.js",
+    "index.html": "/Fiverr_Website/index.html",
+    "main.5c827de8.css.map": "/Fiverr_Website/static/css/main.5c827de8.css.map",
+    "main.af52f1e7.js.map": "/Fiverr_Website/static/js/main.af52f1e7.js.map",
+    "787.87bfb861.chunk.js.map": "/Fiverr_Website/static/js/787.87bfb861.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c827de8.css",
+    "static/js/main.af52f1e7.js"
+  ]
+}
