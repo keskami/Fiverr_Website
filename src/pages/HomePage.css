@@ -1,10 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+
 /* HomePage.css */
 
-body {
+body, html {
   margin: 0;
+  width: 100%;
+  min-height: 100vh; /* Ensure at least 100% of the viewport height */
   background: url('https://i.ibb.co/XpwkV41/pexels-oliver-sjo-stro-m-931018.jpg') center/cover fixed no-repeat; /* Light Blue */
   font-family: 'Arial', sans-serif; /* Adjust as needed */
+  overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 
 .home-container {
@@ -24,7 +28,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   background-color: white;
-  padding: 10px;
+  padding: 20px 30px;
   border-radius: 15px;
 }
 
@@ -43,7 +47,7 @@ button {
   border-radius: 15px;
   cursor: pointer;
   transition: background-color 0.3s ease-in-out;
-  width: 51%;
+  width: 71%;
 }
 
 button p {

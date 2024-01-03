@@ -16,8 +16,8 @@ const HomePage = () => {
         <a href="https://www.getresponse.com?ab=mRrEx6vpTD" target="_blank" rel="noopener noreferrer">
           <button><p>GetResponse Account</p></button>
         </a>
-        <a href="https://groovepages.groovesell.com/a/lUXmh1zMpfMi" target="_blank" rel="noopener noreferrer">
-          <button><p>GrooveFunnels Account</p></button>
+        <a href="https://www.clickfunnels.com/sign-up-flow?aff=49f48525-f1ff-4526-af7c-575a443080fe-1WzEwLDQzNTc3XQ6" target="_blank" rel="noopener noreferrer">
+          <button><p>Clickfunnels Account</p></button>
         </a>
       </header>
     </div>
